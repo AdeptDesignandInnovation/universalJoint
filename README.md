@@ -1,5 +1,7 @@
 # universalJoint
 
+More information at https://discord.gg/P2Gb2VQdvm
+
 this is A design for an universal joint for 20*20 mm extrusion
 
 10 - 15 degrees of freedom in pitch, ya, and roll
